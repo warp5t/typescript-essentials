@@ -1,0 +1,8 @@
+1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/DimaDidencko-2875/J9EGK8YT?sharingId=82ADD6750464F125)
+2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/DimaDidencko-2875/QTADY7CE?sharingId=82ADD6750464F125)
+3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/DimaDidencko-2875/WZC7KT8N?sharingId=82ADD6750464F125)
+4. **Develop Typed Functions in TypeScript**: [Badge]()
+5. **Declare and Instantiate Classes in TypeScript**: [Badge]()
+6. **Generics in TypeScript**: [Badge]()
+7. **Work with External Libraries in TypeScript**: [Badge]()
+8. **Organize Code with Namespaces in TypeScript**: [Badge]()
